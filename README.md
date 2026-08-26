@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-Built an end-to-end machine learning pipeline to predict the **Remaining Useful Life (RUL)** of aircraft engines from historical sensor data.
+The project addresses the challenge of predicting when an aircraft engine may require maintenance before failure occurs. By analyzing how engine condition changes over its operating life, the solution provides an early indication of remaining useful life, enabling more proactive maintenance planning and reducing the risk of unexpected downtime.
 
 The project covers:
 
