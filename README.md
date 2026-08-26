@@ -43,7 +43,13 @@ The dashboard provides an interactive view of:
 - Actual vs. predicted RUL
 - Prediction error analysis
 
+## Power BI Dashboard
+
+The dashboard uses **Engine 69 as an example case** to demonstrate sensor degradation and RUL trends. Engine 69 was selected because it has one of the longest operating lifetimes in the training dataset (**362 cycles**), making its degradation trend easy to visualize.
+
 ![Aircraft Engine RUL Dashboard](Images/Aircraft_Project_Dashboard.png)
+
+
 
 ## 🛠️ Tech Stack
 
@@ -52,19 +58,9 @@ The dashboard provides an interactive view of:
 **Visualization:** Power BI  
 **Development:** VS Code, GitHub
 
-## 📁 Project Structure
+## Conclusion
 
-```text
-Aircraft-Engine-RUL-Prediction/
-│
-├── notebooks/
-│   └── 01_data_exploration.ipynb
-│
-├── powerbi/
-│   └── README.md
-│
-├── images/
-│   └── aircraft_engine_rul_dashboard.png
-│
-├── requirements.txt
-└── README.md
+Built an end-to-end aircraft engine predictive maintenance solution to analyze sensor degradation and predict Remaining Useful Life (RUL). The project integrates Python, machine learning, SQL Server analytics, and Power BI visualization to transform raw engine data into actionable insights.
+
+#Outcome: The final model achieved a **MAE of 24.16 cycles** and **RMSE of 32.28 cycles** on 100 unseen test engines, while the Power BI dashboard provides an interactive view of engine health, degradation trends, RUL, and prediction errors.
+
