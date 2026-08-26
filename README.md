@@ -62,5 +62,5 @@ The dashboard uses **Engine 69 as an example case** to demonstrate sensor degrad
 
 Built an end-to-end aircraft engine predictive maintenance solution to analyze sensor degradation and predict Remaining Useful Life (RUL). The project integrates Python, machine learning, SQL Server analytics, and Power BI visualization to transform raw engine data into actionable insights.
 
-#Outcome: The final model achieved a **MAE of 24.16 cycles** and **RMSE of 32.28 cycles** on 100 unseen test engines, while the Power BI dashboard provides an interactive view of engine health, degradation trends, RUL, and prediction errors.
+**Outcome:** The final model achieved a **MAE of 24.16 cycles** and **RMSE of 32.28 cycles** on 100 unseen test engines, while the Power BI dashboard provides an interactive view of engine health, degradation trends, RUL, and prediction errors.
 
