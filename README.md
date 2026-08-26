@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-The project addresses the challenge of predicting when an aircraft engine may require maintenance before failure occurs. By analyzing how engine condition changes over its operating life, the solution provides an early indication of remaining useful life, enabling more proactive maintenance planning and reducing the risk of unexpected downtime.
+Using the NASA C-MAPSS aircraft engine degradation dataset, this project addresses the challenge of predicting when an aircraft engine may require maintenance before failure occurs. By analyzing historical engine operating conditions and sensor behavior over time, the solution provides an early indication of remaining useful life, supporting proactive maintenance planning and reducing the risk of unexpected downtime.
 
 The project covers:
 
