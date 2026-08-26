@@ -43,14 +43,14 @@ The dashboard provides an interactive view of:
 - Actual vs. predicted RUL
 - Prediction error analysis
 
-![Aircraft Engine RUL Dashboard](images/Aircraft_Project_Dashboard.png)
+![Aircraft Engine RUL Dashboard](Images/Aircraft_Project_Dashboard.png)
 
 ## 🛠️ Tech Stack
 
 **Python:** Pandas, NumPy, Scikit-learn, Matplotlib  
 **SQL:** SQL Server, SSMS, Views, Window Functions  
 **Visualization:** Power BI  
-**Development:** Jupyter Notebook, GitHub
+**Development:** VS Code, GitHub
 
 ## 📁 Project Structure
 
