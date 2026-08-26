@@ -29,8 +29,8 @@ The project covers:
 | **RMSE** | **32.28 cycles** |
 | **R²** | **0.396** |
 
-**MAE** — Mean Absolute Error
-**RMSE** — Root Mean Squared Error
+**MAE** — Mean Absolute Error<br>
+**RMSE** — Root Mean Squared Error<br>
 **R²** — Coefficient of Determination
 
 The final model was evaluated on **unseen test-engine data**.
